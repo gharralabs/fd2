@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. Adicionando texto ao fi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Ler o arquivo letra a letra", "03\03.vcxproj", "{D76F1F59-A1E9-4536-9B29-313AFFABE43B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Ler o arquivo inteiro", "04\04.vcxproj", "{17A65A07-17C2-4D97-868E-45E3FF5A80D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +29,10 @@ Global
 		{D76F1F59-A1E9-4536-9B29-313AFFABE43B}.Debug|Win32.Build.0 = Debug|Win32
 		{D76F1F59-A1E9-4536-9B29-313AFFABE43B}.Release|Win32.ActiveCfg = Release|Win32
 		{D76F1F59-A1E9-4536-9B29-313AFFABE43B}.Release|Win32.Build.0 = Release|Win32
+		{17A65A07-17C2-4D97-868E-45E3FF5A80D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{17A65A07-17C2-4D97-868E-45E3FF5A80D5}.Debug|Win32.Build.0 = Debug|Win32
+		{17A65A07-17C2-4D97-868E-45E3FF5A80D5}.Release|Win32.ActiveCfg = Release|Win32
+		{17A65A07-17C2-4D97-868E-45E3FF5A80D5}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
